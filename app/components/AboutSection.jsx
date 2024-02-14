@@ -78,15 +78,14 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
             I am currently an undergrad student set to graduate in Spring 2024,
-            In a technologically advanced world, I believe that it’s important 
+            In a technologically advanced world, I believe that it is important
             to look past the computer screen and see people, and build a 
             connection between them and their technology. Cultivating a platform 
             that caters to the increasingly diverse population is something that 
             is very important to me. I have knowledge in research methods and the
             design process, and I am eager to use this knowledge to benefit others.
             I am always looking to expand my knowledge and skill set. I am a detail 
-            oriented team player and
-            I am excited to work with others to create amazing applications.
+            oriented team player and excited to work with others to create amazing applications.
 
           </p>
           <div className="flex flex-row justify-start mt-8">
